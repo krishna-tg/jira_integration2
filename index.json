@@ -1,0 +1,216 @@
+{
+    "status": true,
+    "message": "Version data loaded successfully.",
+    "version_id": "117",
+    "user_id": "4",
+    "abo_version": {
+        "version_id": "117",
+        "app_id": "65",
+        "version_name": "1.0",
+        "version_description": "",
+        "cm_version_module": "175,178,179",
+        "platform": "3",
+        "ai_modal_id": "cotester_client_ndISIDcCup7U275daRkp2ATJ",
+        "script_type": "3",
+        "is_master": "1",
+        "xray_project_version": null,
+        "restore_id": "0",
+        "is_git_enabled": "1",
+        "git_restore_id": "0",
+        "is_delete": "0"
+    },
+    "app_id": "65",
+    "platform": "3",
+    "ab_applications": {
+        "app_id": "65",
+        "name": "figmatest",
+        "user_id": "4",
+        "os_type": "0",
+        "nob": "0",
+        "application_token": "f5d68ac7a8d1afe24dadfb45e597cc0d",
+        "cm_version_id": "1,117",
+        "is_autoheal": "1",
+        "is_autoheal_autofixed": "0",
+        "is_testcase_retries": "0",
+        "testcase_retries_number": null,
+        "is_ai_autoheal": "0",
+        "is_ai_autoheal_autofixed": "0",
+        "jira_project_id": null,
+        "created_by": "8",
+        "project_restriction_type": "1",
+        "is_delete": "0",
+        "ai_modal_id": null,
+        "created": "2025-12-09 11:02:30",
+        "updated": "2025-12-09 11:02:30"
+    },
+    "abo_version_module": [
+        {
+            "version_module_id": "175",
+            "version_id": "117",
+            "parent_id": "0",
+            "module_name": "TestSuite1",
+            "module_description": "",
+            "count_resource": "0",
+            "cm_resource_pages": "",
+            "cm_default_resource": "",
+            "cm_test_function": "",
+            "cm_test_case": "",
+            "cm_test_case_ai": "",
+            "cm_network": "",
+            "cm_renderer": "",
+            "view_updated_date_time": "2025-12-15 12:41:39",
+            "is_updated": "1",
+            "is_complie": "1",
+            "server_ids": "1",
+            "is_running": "1",
+            "is_delete": "0",
+            "abo_vm_test_case": [],
+            "abo_version_proc": [],
+            "abo_vm_network_assert": [],
+            "abo_update": [
+                {
+                    "id": "676",
+                    "user_id": "4",
+                    "app_id": "65",
+                    "version_id": "117",
+                    "version_module_id": "175",
+                    "description": "",
+                    "action_process": "add_version_module"
+                }
+            ],
+            "abo_version_pages": [
+                {
+                    "version_page_id": 0,
+                    "version_module_id": "175",
+                    "cm_resource": "",
+                    "page_name": "Manually Added Resources ",
+                    "abo_version_maps": []
+                }
+            ]
+        },
+        {
+            "version_module_id": "178",
+            "version_id": "117",
+            "parent_id": "0",
+            "module_name": "ecom",
+            "module_description": "",
+            "count_resource": "0",
+            "cm_resource_pages": "",
+            "cm_default_resource": "",
+            "cm_test_function": "",
+            "cm_test_case": "",
+            "cm_test_case_ai": "",
+            "cm_network": "",
+            "cm_renderer": "",
+            "view_updated_date_time": "2025-12-15 12:41:45",
+            "is_updated": "1",
+            "is_complie": "1",
+            "server_ids": "1",
+            "is_running": "1",
+            "is_delete": "0",
+            "abo_vm_test_case": [],
+            "abo_version_proc": [],
+            "abo_vm_network_assert": [],
+            "abo_update": [
+                {
+                    "id": "679",
+                    "user_id": "4",
+                    "app_id": "65",
+                    "version_id": "117",
+                    "version_module_id": "178",
+                    "description": "",
+                    "action_process": "add_version_module"
+                }
+            ],
+            "abo_version_pages": [
+                {
+                    "version_page_id": 0,
+                    "version_module_id": "178",
+                    "cm_resource": "",
+                    "page_name": "Manually Added Resources ",
+                    "abo_version_maps": []
+                }
+            ]
+        },
+        {
+            "version_module_id": "179",
+            "version_id": "117",
+            "parent_id": "0",
+            "module_name": "appointments",
+            "module_description": "",
+            "count_resource": "0",
+            "cm_resource_pages": "",
+            "cm_default_resource": "",
+            "cm_test_function": "",
+            "cm_test_case": "810",
+            "cm_test_case_ai": "",
+            "cm_network": "",
+            "cm_renderer": "",
+            "view_updated_date_time": "2025-12-15 12:41:50",
+            "is_updated": "1",
+            "is_complie": "1",
+            "server_ids": "1",
+            "is_running": "1",
+            "is_delete": "0",
+            "abo_vm_test_case": [
+                {
+                    "tc_id": "810",
+                    "version_module_id": "179",
+                    "tc_name": "bestbuy",
+                    "tc_description": "",
+                    "tc_website_url": "https://bestbuy.com/",
+                    "it_json": "",
+                    "cm_step_list": "",
+                    "is_compiled": "1",
+                    "xray_type_of_issue_id": null,
+                    "xray_type_of_issue_key": null,
+                    "is_deleted": "0000-00-00 00:00:00",
+                    "is_auto": "0",
+                    "is_ai_generated": "0",
+                    "updated_at": "2025-12-15 12:42:11",
+                    "created_at": "2025-12-15 12:42:11",
+                    "test_case_tags": [],
+                    "iterative_test_case": [],
+                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/65/117/179/testcases/bestbuy.java"
+                }
+            ],
+            "abo_version_proc": [],
+            "abo_vm_network_assert": [],
+            "abo_update": [
+                {
+                    "id": "680",
+                    "user_id": "4",
+                    "app_id": "65",
+                    "version_id": "117",
+                    "version_module_id": "179",
+                    "description": "",
+                    "action_process": "add_version_module"
+                },
+                {
+                    "id": "777",
+                    "user_id": "4",
+                    "app_id": "65",
+                    "version_id": "117",
+                    "version_module_id": "179",
+                    "description": "",
+                    "action_process": "add_test_case"
+                }
+            ],
+            "abo_version_pages": [
+                {
+                    "version_page_id": 0,
+                    "version_module_id": "179",
+                    "cm_resource": "",
+                    "page_name": "Manually Added Resources ",
+                    "abo_version_maps": []
+                }
+            ]
+        }
+    ],
+    "abo_version_capabilities": [],
+    "abo_import_statement": [],
+    "abo_maven_dependency": [],
+    "abo_external_jar": [],
+    "abo_global_variable": [],
+    "ab_scheduler": []
+}
