@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locators>
+  <locator name="ele_dealofthed962">
+    <element type="xpath">//a[contains(text(),'Deal of the Day')]</element>
+    <element type="css">li:nth-of-type(5) &gt; a.bottom-left-links</element>
+    <element type="css">html &gt; body &gt; div:nth-of-type(5) &gt; div &gt; div &gt; header &gt; div:nth-of-type(4) &gt; nav &gt; div &gt; ul &gt; li:nth-of-type(5) &gt; aTGWEBCOMMA0</element>
+    <element type="partiallinktext">Deal of the DTGWEBCOMMA0</element>
+    <element type="linktext">Deal of the DayTGWEBCOMMA0</element>
+    <element type="tag">aTGWEBCOMMA0</element>
+    <element type="class">bottom-left-links TGWEBCOMMA5</element>
+    <element type="image">http://192.168.4.15/s/ele-imgs/179/5769.png</element>
+  </locator>
+  <locator name="ele_addtocart225">
+    <element type="xpath">//div[@id='fulfillment-add-to-cart-959ea4be-1675-4082-99a9-c8e91118857e-6643886']//div//div//div//button[@type='button'][contains(text(),'Add to cart')]</element>
+    <element type="css">button.c-button.c-button-primary.c-button-sm.c-button-block.c-button-icon.c-button-icon-leading.add-to-cart-button</element>
+    <element type="css">div#fulfillment-add-to-cart-959ea4be-1675-4082-99a9-c8e91118857e-6643886 &gt; div &gt; div &gt; div &gt; buttonTGWEBCOMMA0</element>
+    <element type="tag">buttonTGWEBCOMMA0</element>
+    <element type="class">c-button c-button-primary c-button-sm c-button-block c-button-icon c-button-icon-leading add-to-cart-button TGWEBCOMMA3</element>
+    <element type="image">http://192.168.4.15/s/ele-imgs/179/5770.png</element>
+  </locator>
+</locators>

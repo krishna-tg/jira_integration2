@@ -20,15 +20,15 @@ import org.openqa.selenium.remote.RemoteWebDriver;
 import org.testng.annotations.Test;
 
 @Listeners(TestListener.class);
-public class bestbuy {
+public class bbtest {
 
 	@Test(retryAnalyzer = RetryFailedTestCases.class)
-	public void bestbuy() {
+	public void bbtest() {
 		tg.openBrowser();
-		tg.wait("ele_dealofthed962", ComparisonType.IS_VISIBLE);
-		tg.click("ele_dealofthed962", 1);
-		tg.wait("ele_addtocart225", ComparisonType.IS_VISIBLE);
-		tg.click("ele_addtocart225", 1);
+		tg.click("ele_DealoftheDaylink27102831994258", 1);
+		tg.wait("ele_Addtocart120102953278507", ComparisonType.IS_VISIBLE);
+		tg.click("ele_Addtocart120102953278507", 1);
+		tg.click("ele_Cart31103439573326", 1);
 		tg.close();
 	}
 }

@@ -1,0 +1,424 @@
+{
+    "elements": [
+        {
+            "testcase_element": "ele_dealofthed962",
+            "tg_text": "Deal of the Day",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "li",
+                    "tg_attributes": {
+                        "aria-hidden": "false"
+                    }
+                },
+                "current_element_attrs": {
+                    "tag": "a",
+                    "tg_attributes": {
+                        "aria-hidden": "false",
+                        "class": "bottom-left-links ",
+                        "href": "/site/misc/deal-of-the-day/pcmcat248000050016.c?id=pcmcat248000050016",
+                        "tabindex": "0"
+                    }
+                }
+            },
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//a[contains(text(),'Deal of the Day')]",
+                    "locator_id": "3",
+                    "d_h": 16,
+                    "d_w": 91,
+                    "d_x": 403,
+                    "d_y": 286,
+                    "suggest_name": "dealofthed962"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "li:nth-of-type(5) > a.bottom-left-links",
+                    "locator_id": "9",
+                    "d_h": 16,
+                    "d_w": 91,
+                    "d_x": 403.40625,
+                    "d_y": 286.59375,
+                    "suggest_name": "dealofthed962"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "html > body > div:nth-of-type(5) > div > div > header > div:nth-of-type(4) > nav > div > ul > li:nth-of-type(5) > aTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 16,
+                    "d_w": 91,
+                    "d_x": 403.40625,
+                    "d_y": 286.59375,
+                    "suggest_name": "dealofthed962"
+                },
+                {
+                    "locators": "PartialLinkText",
+                    "locators_val": "Deal of the DTGWEBCOMMA0",
+                    "locator_id": "5",
+                    "d_h": 16,
+                    "d_w": 91,
+                    "d_x": 403.40625,
+                    "d_y": 286.59375,
+                    "suggest_name": "dealofthed962"
+                },
+                {
+                    "locators": "LinkText",
+                    "locators_val": "Deal of the DayTGWEBCOMMA0",
+                    "locator_id": "4",
+                    "d_h": 16,
+                    "d_w": 91,
+                    "d_x": 403.40625,
+                    "d_y": 286.59375,
+                    "suggest_name": "dealofthed962"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//li[5]/a",
+                    "locator_id": "3",
+                    "d_h": 16,
+                    "d_w": 91,
+                    "d_x": 403.40625,
+                    "d_y": 286.59375,
+                    "suggest_name": "dealofthed962"
+                },
+                {
+                    "locators": "Tag",
+                    "locators_val": "aTGWEBCOMMA0",
+                    "locator_id": "8",
+                    "d_h": 16,
+                    "d_w": 91,
+                    "d_x": 403.40625,
+                    "d_y": 286.59375,
+                    "suggest_name": "dealofthed962"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "bottom-left-links TGWEBCOMMA5",
+                    "locator_id": "6",
+                    "d_h": 16,
+                    "d_w": 91,
+                    "d_x": 403.40625,
+                    "d_y": 286.59375,
+                    "suggest_name": "dealofthed962"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_image": "http://192.168.4.15/s/ele-imgs/179/5769.png",
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_dealofthed962",
+            "tg_text": "Deal of the Day",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "li",
+                    "tg_attributes": {
+                        "aria-hidden": "false"
+                    }
+                },
+                "current_element_attrs": {
+                    "tag": "a",
+                    "tg_attributes": {
+                        "aria-hidden": "false",
+                        "class": "bottom-left-links ",
+                        "href": "/site/misc/deal-of-the-day/pcmcat248000050016.c?id=pcmcat248000050016",
+                        "tabindex": "0"
+                    }
+                }
+            },
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//a[contains(text(),'Deal of the Day')]",
+                    "locator_id": "3",
+                    "d_h": 16,
+                    "d_w": 91,
+                    "d_x": 403,
+                    "d_y": 286,
+                    "suggest_name": "dealofthed962"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "li:nth-of-type(5) > a.bottom-left-links",
+                    "locator_id": "9",
+                    "d_h": 16,
+                    "d_w": 91,
+                    "d_x": 403.40625,
+                    "d_y": 286.59375,
+                    "suggest_name": "dealofthed962"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "html > body > div:nth-of-type(5) > div > div > header > div:nth-of-type(4) > nav > div > ul > li:nth-of-type(5) > aTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 16,
+                    "d_w": 91,
+                    "d_x": 403.40625,
+                    "d_y": 286.59375,
+                    "suggest_name": "dealofthed962"
+                },
+                {
+                    "locators": "PartialLinkText",
+                    "locators_val": "Deal of the DTGWEBCOMMA0",
+                    "locator_id": "5",
+                    "d_h": 16,
+                    "d_w": 91,
+                    "d_x": 403.40625,
+                    "d_y": 286.59375,
+                    "suggest_name": "dealofthed962"
+                },
+                {
+                    "locators": "LinkText",
+                    "locators_val": "Deal of the DayTGWEBCOMMA0",
+                    "locator_id": "4",
+                    "d_h": 16,
+                    "d_w": 91,
+                    "d_x": 403.40625,
+                    "d_y": 286.59375,
+                    "suggest_name": "dealofthed962"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//li[5]/a",
+                    "locator_id": "3",
+                    "d_h": 16,
+                    "d_w": 91,
+                    "d_x": 403.40625,
+                    "d_y": 286.59375,
+                    "suggest_name": "dealofthed962"
+                },
+                {
+                    "locators": "Tag",
+                    "locators_val": "aTGWEBCOMMA0",
+                    "locator_id": "8",
+                    "d_h": 16,
+                    "d_w": 91,
+                    "d_x": 403.40625,
+                    "d_y": 286.59375,
+                    "suggest_name": "dealofthed962"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "bottom-left-links TGWEBCOMMA5",
+                    "locator_id": "6",
+                    "d_h": 16,
+                    "d_w": 91,
+                    "d_x": 403.40625,
+                    "d_y": 286.59375,
+                    "suggest_name": "dealofthed962"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_image": "http://192.168.4.15/s/ele-imgs/179/5769.png",
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_addtocart225",
+            "tg_text": "Add to cart",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "style": "position:relative;display:block"
+                    }
+                },
+                "previous_sibling": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "data-optimizely-experiment-key": "ABT_STICKY_ATC"
+                    }
+                },
+                "current_element_attrs": {
+                    "tag": "button",
+                    "tg_attributes": {
+                        "class": "c-button c-button-primary c-button-sm c-button-block c-button-icon c-button-icon-leading add-to-cart-button ",
+                        "type": "button",
+                        "data-sku-id": "6643886",
+                        "data-button-state": "ADD_TO_CART",
+                        "style": "padding:0 8px;width:100%"
+                    }
+                }
+            },
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[@id='fulfillment-add-to-cart-959ea4be-1675-4082-99a9-c8e91118857e-6643886']//div//div//div//button[@type='button'][contains(text(),'Add to cart')]",
+                    "locator_id": "3",
+                    "d_h": 30,
+                    "d_w": 125,
+                    "d_x": 580,
+                    "d_y": 792,
+                    "suggest_name": "addtocart225"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[@id='fulfillment-add-to-cart-959ea4be-1675-4082-99a9-c8e91118857e-6643886']/div/div/div/button",
+                    "locator_id": "3",
+                    "d_h": 30,
+                    "d_w": 125,
+                    "d_x": 580.328125,
+                    "d_y": 792.4375,
+                    "suggest_name": "addtocart225"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "button.c-button.c-button-primary.c-button-sm.c-button-block.c-button-icon.c-button-icon-leading.add-to-cart-button",
+                    "locator_id": "9",
+                    "d_h": 30,
+                    "d_w": 125,
+                    "d_x": 580.328125,
+                    "d_y": 792.4375,
+                    "suggest_name": "addtocart225"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "div#fulfillment-add-to-cart-959ea4be-1675-4082-99a9-c8e91118857e-6643886 > div > div > div > buttonTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 30,
+                    "d_w": 125,
+                    "d_x": 580.328125,
+                    "d_y": 792.4375,
+                    "suggest_name": "addtocart225"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[2]/div/div/div/div/div/div/button",
+                    "locator_id": "3",
+                    "d_h": 30,
+                    "d_w": 125,
+                    "d_x": 580.328125,
+                    "d_y": 792.4375,
+                    "suggest_name": "addtocart225"
+                },
+                {
+                    "locators": "Tag",
+                    "locators_val": "buttonTGWEBCOMMA0",
+                    "locator_id": "8",
+                    "d_h": 30,
+                    "d_w": 125,
+                    "d_x": 580.328125,
+                    "d_y": 792.4375,
+                    "suggest_name": "addtocart225"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "c-button c-button-primary c-button-sm c-button-block c-button-icon c-button-icon-leading add-to-cart-button TGWEBCOMMA3",
+                    "locator_id": "6",
+                    "d_h": 30,
+                    "d_w": 125,
+                    "d_x": 580.328125,
+                    "d_y": 792.4375,
+                    "suggest_name": "addtocart225"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_image": "http://192.168.4.15/s/ele-imgs/179/5770.png",
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_addtocart225",
+            "tg_text": "Add to cart",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "style": "position:relative;display:block"
+                    }
+                },
+                "previous_sibling": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "data-optimizely-experiment-key": "ABT_STICKY_ATC"
+                    }
+                },
+                "current_element_attrs": {
+                    "tag": "button",
+                    "tg_attributes": {
+                        "class": "c-button c-button-primary c-button-sm c-button-block c-button-icon c-button-icon-leading add-to-cart-button ",
+                        "type": "button",
+                        "data-sku-id": "6643886",
+                        "data-button-state": "ADD_TO_CART",
+                        "style": "padding:0 8px;width:100%"
+                    }
+                }
+            },
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[@id='fulfillment-add-to-cart-959ea4be-1675-4082-99a9-c8e91118857e-6643886']//div//div//div//button[@type='button'][contains(text(),'Add to cart')]",
+                    "locator_id": "3",
+                    "d_h": 30,
+                    "d_w": 125,
+                    "d_x": 580,
+                    "d_y": 792,
+                    "suggest_name": "addtocart225"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[@id='fulfillment-add-to-cart-959ea4be-1675-4082-99a9-c8e91118857e-6643886']/div/div/div/button",
+                    "locator_id": "3",
+                    "d_h": 30,
+                    "d_w": 125,
+                    "d_x": 580.328125,
+                    "d_y": 792.4375,
+                    "suggest_name": "addtocart225"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "button.c-button.c-button-primary.c-button-sm.c-button-block.c-button-icon.c-button-icon-leading.add-to-cart-button",
+                    "locator_id": "9",
+                    "d_h": 30,
+                    "d_w": 125,
+                    "d_x": 580.328125,
+                    "d_y": 792.4375,
+                    "suggest_name": "addtocart225"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "div#fulfillment-add-to-cart-959ea4be-1675-4082-99a9-c8e91118857e-6643886 > div > div > div > buttonTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 30,
+                    "d_w": 125,
+                    "d_x": 580.328125,
+                    "d_y": 792.4375,
+                    "suggest_name": "addtocart225"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[2]/div/div/div/div/div/div/button",
+                    "locator_id": "3",
+                    "d_h": 30,
+                    "d_w": 125,
+                    "d_x": 580.328125,
+                    "d_y": 792.4375,
+                    "suggest_name": "addtocart225"
+                },
+                {
+                    "locators": "Tag",
+                    "locators_val": "buttonTGWEBCOMMA0",
+                    "locator_id": "8",
+                    "d_h": 30,
+                    "d_w": 125,
+                    "d_x": 580.328125,
+                    "d_y": 792.4375,
+                    "suggest_name": "addtocart225"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "c-button c-button-primary c-button-sm c-button-block c-button-icon c-button-icon-leading add-to-cart-button TGWEBCOMMA3",
+                    "locator_id": "6",
+                    "d_h": 30,
+                    "d_w": 125,
+                    "d_x": 580.328125,
+                    "d_y": 792.4375,
+                    "suggest_name": "addtocart225"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_image": "http://192.168.4.15/s/ele-imgs/179/5770.png",
+            "element_type": "xpath",
+            "image_url": ""
+        }
+    ]
+}
