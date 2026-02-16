@@ -26,6 +26,7 @@
         "name": "figmatest",
         "user_id": "4",
         "os_type": "0",
+        "platform": null,
         "nob": "0",
         "application_token": "f5d68ac7a8d1afe24dadfb45e597cc0d",
         "cm_version_id": "1,117",
@@ -58,7 +59,7 @@
             "cm_test_case_ai": "",
             "cm_network": "",
             "cm_renderer": "",
-            "view_updated_date_time": "2025-12-15 14:12:50",
+            "view_updated_date_time": null,
             "is_updated": "1",
             "is_complie": "1",
             "server_ids": "1",
@@ -79,6 +80,7 @@
                     "is_deleted": "0000-00-00 00:00:00",
                     "is_auto": "0",
                     "is_ai_generated": "1",
+                    "is_internal_launch": "0",
                     "updated_at": "2025-12-16 13:41:18",
                     "created_at": "2025-12-16 10:27:29",
                     "test_case_tags": [],
@@ -87,6 +89,7 @@
                 }
             ],
             "abo_version_proc": [],
+            "abo_vm_test_case_manual": [],
             "abo_vm_network_assert": [],
             "abo_update": [
                 {
@@ -126,12 +129,14 @@
                     "action_process": "edit_test_case"
                 }
             ],
+            "abo_vm_test_story_manual": [],
             "abo_version_pages": [
                 {
                     "version_page_id": 0,
                     "version_module_id": "175",
                     "cm_resource": "5817,5818,5819,5820",
                     "page_name": "Manually Added Resources ",
+                    "image_url": "",
                     "abo_version_maps": [
                         {
                             "maps_id": "5817",
@@ -143,6 +148,7 @@
                             "element_image_url": null,
                             "element_path_rid": "//a[contains(text(),'Top Deals')]",
                             "autoheal_elements": "[{\"locators\":\"Xpath\",\"locators_val\":\"//a[contains(text(),'Top Deals')]\",\"locator_id\":\"3\",\"d_h\":16,\"d_w\":58,\"d_x\":316.9375,\"d_y\":286.59375,\"suggest_name\":\"topdeals445\"},{\"locators\":\"CSS selector\",\"locators_val\":\"li:nth-of-type(4) > a.bottom-left-links\",\"locator_id\":\"9\",\"d_h\":16,\"d_w\":58,\"d_x\":316.9375,\"d_y\":286.59375,\"suggest_name\":\"topdeals445\"},{\"locators\":\"CSS selector\",\"locators_val\":\"html > body > div:nth-of-type(5) > div > div > header > div:nth-of-type(4) > nav > div > ul > li:nth-of-type(4) > aTGWEBCOMMA0\",\"locator_id\":\"9\",\"d_h\":16,\"d_w\":58,\"d_x\":316.9375,\"d_y\":286.59375,\"suggest_name\":\"topdeals445\"},{\"locators\":\"PartialLinkText\",\"locators_val\":\"Top DeaTGWEBCOMMA0\",\"locator_id\":\"5\",\"d_h\":16,\"d_w\":58,\"d_x\":316.9375,\"d_y\":286.59375,\"suggest_name\":\"topdeals445\"},{\"locators\":\"LinkText\",\"locators_val\":\"Top DealsTGWEBCOMMA0\",\"locator_id\":\"4\",\"d_h\":16,\"d_w\":58,\"d_x\":316.9375,\"d_y\":286.59375,\"suggest_name\":\"topdeals445\"},{\"locators\":\"Xpath\",\"locators_val\":\"//li[4]/a\",\"locator_id\":\"3\",\"d_h\":16,\"d_w\":58,\"d_x\":316.9375,\"d_y\":286.59375,\"suggest_name\":\"topdeals445\"},{\"locators\":\"Tag\",\"locators_val\":\"aTGWEBCOMMA0\",\"locator_id\":\"8\",\"d_h\":16,\"d_w\":58,\"d_x\":316.9375,\"d_y\":286.59375,\"suggest_name\":\"topdeals445\"},{\"locators\":\"class\",\"locators_val\":\"bottom-left-links TGWEBCOMMA4\",\"locator_id\":\"6\",\"d_h\":16,\"d_w\":58,\"d_x\":316.9375,\"d_y\":286.59375,\"suggest_name\":\"topdeals445\"}]",
+                            "correct_autoheal_data": null,
                             "shadow_data": "",
                             "sibling_selector": "{\"parent\":{\"tag\":\"li\",\"tg_attributes\":{\"aria-hidden\":\"false\"}},\"current_element_attrs\":{\"tag\":\"a\",\"tg_attributes\":{\"aria-hidden\":\"false\",\"class\":\"bottom-left-links \",\"href\":\"\\/top-deals\",\"tabindex\":\"0\"}}}",
                             "tg_text": "",
@@ -177,6 +183,7 @@
                             "element_image_url": null,
                             "element_path_rid": "//div[@id='fulfillment-add-to-cart-button-83662767']//div//div//div//button[@type='button'][contains(text(),'Add to cart')]",
                             "autoheal_elements": "[{\"locators\":\"Xpath\",\"locators_val\":\"//div[@id='fulfillment-add-to-cart-button-83662767']//div//div//div//button[@type='button'][contains(text(),'Add to cart')]\",\"locator_id\":\"3\",\"d_h\":30,\"d_w\":190,\"d_x\":89,\"d_y\":2243.953125,\"suggest_name\":\"addtocart877\"},{\"locators\":\"Xpath\",\"locators_val\":\"//div[@id='fulfillment-add-to-cart-button-83662767']/div/div/div/button\",\"locator_id\":\"3\",\"d_h\":30,\"d_w\":190,\"d_x\":89,\"d_y\":2243.953125,\"suggest_name\":\"addtocart877\"},{\"locators\":\"CSS selector\",\"locators_val\":\"button.c-button.c-button-primary.c-button-sm.c-button-block.c-button-icon.c-button-icon-leading.add-to-cart-button\",\"locator_id\":\"9\",\"d_h\":30,\"d_w\":190,\"d_x\":89,\"d_y\":2243.953125,\"suggest_name\":\"addtocart877\"},{\"locators\":\"CSS selector\",\"locators_val\":\"div#fulfillment-add-to-cart-button-83662767 > div > div > div > buttonTGWEBCOMMA0\",\"locator_id\":\"9\",\"d_h\":30,\"d_w\":190,\"d_x\":89,\"d_y\":2243.953125,\"suggest_name\":\"addtocart877\"},{\"locators\":\"Xpath\",\"locators_val\":\"//div[2]/div/div/div/div/div/div/button\",\"locator_id\":\"3\",\"d_h\":30,\"d_w\":190,\"d_x\":89,\"d_y\":2243.953125,\"suggest_name\":\"addtocart877\"},{\"locators\":\"Tag\",\"locators_val\":\"buttonTGWEBCOMMA0\",\"locator_id\":\"8\",\"d_h\":30,\"d_w\":190,\"d_x\":89,\"d_y\":2243.953125,\"suggest_name\":\"addtocart877\"},{\"locators\":\"class\",\"locators_val\":\"c-button c-button-primary c-button-sm c-button-block c-button-icon c-button-icon-leading add-to-cart-button TGWEBCOMMA5\",\"locator_id\":\"6\",\"d_h\":30,\"d_w\":190,\"d_x\":89,\"d_y\":2243.953125,\"suggest_name\":\"addtocart877\"}]",
+                            "correct_autoheal_data": null,
                             "shadow_data": "",
                             "sibling_selector": "{\"parent\":{\"tag\":\"div\",\"tg_attributes\":{\"style\":\"position:relative;display:block\"}},\"previous_sibling\":{\"tag\":\"div\",\"tg_attributes\":{\"data-optimizely-experiment-key\":\"ABT_STICKY_ATC\"}},\"current_element_attrs\":{\"tag\":\"button\",\"tg_attributes\":{\"class\":\"c-button c-button-primary c-button-sm c-button-block c-button-icon c-button-icon-leading add-to-cart-button \",\"type\":\"button\",\"data-sku-id\":\"6615767\",\"data-button-state\":\"ADD_TO_CART\",\"style\":\"padding:0 8px;width:100%\"}}}",
                             "tg_text": "",
@@ -211,6 +218,7 @@
                             "element_image_url": null,
                             "element_path_rid": "//div[@id='fulfillment-add-to-cart-button-83662767']//div//div//div//button[@type='button'][contains(text(),'Add to cart')]",
                             "autoheal_elements": "[{\"locators\":\"Xpath\",\"locators_val\":\"//div[@id='fulfillment-add-to-cart-button-83662767']//div//div//div//button[@type='button'][contains(text(),'Add to cart')]\",\"locator_id\":\"3\",\"d_h\":30,\"d_w\":190,\"d_x\":89,\"d_y\":2243.953125,\"suggest_name\":\"addtocart478\"},{\"locators\":\"Xpath\",\"locators_val\":\"//div[@id='fulfillment-add-to-cart-button-83662767']/div/div/div/button\",\"locator_id\":\"3\",\"d_h\":30,\"d_w\":190,\"d_x\":89,\"d_y\":2243.953125,\"suggest_name\":\"addtocart478\"},{\"locators\":\"CSS selector\",\"locators_val\":\"button.c-button.c-button-primary.c-button-sm.c-button-block.c-button-icon.c-button-icon-leading.add-to-cart-button\",\"locator_id\":\"9\",\"d_h\":30,\"d_w\":190,\"d_x\":89,\"d_y\":2243.953125,\"suggest_name\":\"addtocart478\"},{\"locators\":\"CSS selector\",\"locators_val\":\"div#fulfillment-add-to-cart-button-83662767 > div > div > div > buttonTGWEBCOMMA0\",\"locator_id\":\"9\",\"d_h\":30,\"d_w\":190,\"d_x\":89,\"d_y\":2243.953125,\"suggest_name\":\"addtocart478\"},{\"locators\":\"Xpath\",\"locators_val\":\"//div[2]/div/div/div/div/div/div/button\",\"locator_id\":\"3\",\"d_h\":30,\"d_w\":190,\"d_x\":89,\"d_y\":2243.953125,\"suggest_name\":\"addtocart478\"},{\"locators\":\"Tag\",\"locators_val\":\"buttonTGWEBCOMMA0\",\"locator_id\":\"8\",\"d_h\":30,\"d_w\":190,\"d_x\":89,\"d_y\":2243.953125,\"suggest_name\":\"addtocart478\"},{\"locators\":\"class\",\"locators_val\":\"c-button c-button-primary c-button-sm c-button-block c-button-icon c-button-icon-leading add-to-cart-button TGWEBCOMMA5\",\"locator_id\":\"6\",\"d_h\":30,\"d_w\":190,\"d_x\":89,\"d_y\":2243.953125,\"suggest_name\":\"addtocart478\"}]",
+                            "correct_autoheal_data": null,
                             "shadow_data": "",
                             "sibling_selector": "{\"parent\":{\"tag\":\"div\",\"tg_attributes\":{\"style\":\"position:relative;display:block\"}},\"previous_sibling\":{\"tag\":\"div\",\"tg_attributes\":{\"data-optimizely-experiment-key\":\"ABT_STICKY_ATC\"}},\"current_element_attrs\":{\"tag\":\"button\",\"tg_attributes\":{\"class\":\"c-button c-button-primary c-button-sm c-button-block c-button-icon c-button-icon-leading add-to-cart-button \",\"type\":\"button\",\"data-sku-id\":\"6615767\",\"data-button-state\":\"ADD_TO_CART\",\"style\":\"padding:0 8px;width:100%\"}}}",
                             "tg_text": "",
@@ -245,6 +253,7 @@
                             "element_image_url": null,
                             "element_path_rid": "//div[@id='order-status-flyout-button']//a[@role='button']",
                             "autoheal_elements": "[{\"locators\":\"Xpath\",\"locators_val\":\"//div[@id='order-status-flyout-button']//a[@role='button']\",\"locator_id\":\"3\",\"d_h\":16,\"d_w\":84,\"d_x\":1105.09375,\"d_y\":-1248.421875,\"suggest_name\":\"orderstatu799\"},{\"locators\":\"Xpath\",\"locators_val\":\"//div[@id='order-status-flyout-button']/a\",\"locator_id\":\"3\",\"d_h\":16,\"d_w\":84,\"d_x\":1105.09375,\"d_y\":-1248.421875,\"suggest_name\":\"orderstatu799\"},{\"locators\":\"CSS selector\",\"locators_val\":\"a.c-button-unstyled.plButton.orderStatus-button.d-flex.justify-content-center.align-items-center\",\"locator_id\":\"9\",\"d_h\":16,\"d_w\":84,\"d_x\":1105.09375,\"d_y\":-1248.421875,\"suggest_name\":\"orderstatu799\"},{\"locators\":\"CSS selector\",\"locators_val\":\"div#order-status-flyout-button > aTGWEBCOMMA0\",\"locator_id\":\"9\",\"d_h\":16,\"d_w\":84,\"d_x\":1105.09375,\"d_y\":-1248.421875,\"suggest_name\":\"orderstatu799\"},{\"locators\":\"Xpath\",\"locators_val\":\"//li[3]/div/a\",\"locator_id\":\"3\",\"d_h\":16,\"d_w\":84,\"d_x\":1105.09375,\"d_y\":-1248.421875,\"suggest_name\":\"orderstatu799\"},{\"locators\":\"Tag\",\"locators_val\":\"aTGWEBCOMMA0\",\"locator_id\":\"8\",\"d_h\":16,\"d_w\":84,\"d_x\":1105.09375,\"d_y\":-1248.421875,\"suggest_name\":\"orderstatu799\"},{\"locators\":\"class\",\"locators_val\":\"c-button-unstyled plButton orderStatus-button d-flex justify-content-center align-items-centerTGWEBCOMMA6\",\"locator_id\":\"6\",\"d_h\":16,\"d_w\":84,\"d_x\":1105.09375,\"d_y\":-1248.421875,\"suggest_name\":\"orderstatu799\"}]",
+                            "correct_autoheal_data": null,
                             "shadow_data": "",
                             "sibling_selector": "{\"parent\":{\"tag\":\"div\",\"tg_attributes\":{\"class\":\"flyout-button-wrapper\",\"id\":\"order-status-flyout-button\"}},\"current_element_attrs\":{\"tag\":\"a\",\"tg_attributes\":{\"aria-disabled\":\"false\",\"class\":\"c-button-unstyled plButton orderStatus-button d-flex justify-content-center align-items-center\",\"href\":\"\\/profile\\/ss\\/orderlookup\",\"role\":\"button\",\"tabindex\":\"0\"}},\"children\":[{\"tag\":\"span\",\"tg_attributes\":{\"class\":\"v-p-right-xxs\"}}]}",
                             "tg_text": "",
@@ -295,6 +304,7 @@
             "is_delete": "0",
             "abo_vm_test_case": [],
             "abo_version_proc": [],
+            "abo_vm_test_case_manual": [],
             "abo_vm_network_assert": [],
             "abo_update": [
                 {
@@ -307,12 +317,14 @@
                     "action_process": "add_version_module"
                 }
             ],
+            "abo_vm_test_story_manual": [],
             "abo_version_pages": [
                 {
                     "version_page_id": 0,
                     "version_module_id": "178",
                     "cm_resource": "",
                     "page_name": "Manually Added Resources ",
+                    "image_url": "",
                     "abo_version_maps": []
                 }
             ]
@@ -331,7 +343,7 @@
             "cm_test_case_ai": "",
             "cm_network": "",
             "cm_renderer": "",
-            "view_updated_date_time": "2025-12-15 14:15:12",
+            "view_updated_date_time": "2026-02-16 11:39:41",
             "is_updated": "1",
             "is_complie": "1",
             "server_ids": "1",
@@ -352,14 +364,31 @@
                     "is_deleted": "0000-00-00 00:00:00",
                     "is_auto": "0",
                     "is_ai_generated": "1",
+                    "is_internal_launch": "0",
                     "updated_at": "2025-12-15 12:54:13",
                     "created_at": "2025-12-15 12:42:11",
-                    "test_case_tags": [],
+                    "test_case_tags": [
+                        {
+                            "id": "156",
+                            "version_module_id": "179",
+                            "name": "ecom",
+                            "tc_id": "810",
+                            "user_id": "4"
+                        },
+                        {
+                            "id": "157",
+                            "version_module_id": "179",
+                            "name": "prompt",
+                            "tc_id": "810",
+                            "user_id": "4"
+                        }
+                    ],
                     "iterative_test_case": [],
                     "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/65/117/179/testcases/bestbuy.java"
                 }
             ],
             "abo_version_proc": [],
+            "abo_vm_test_case_manual": [],
             "abo_vm_network_assert": [],
             "abo_update": [
                 {
@@ -399,12 +428,14 @@
                     "action_process": "edit_test_case"
                 }
             ],
+            "abo_vm_test_story_manual": [],
             "abo_version_pages": [
                 {
                     "version_page_id": 0,
                     "version_module_id": "179",
                     "cm_resource": "5769,5770",
                     "page_name": "Manually Added Resources ",
+                    "image_url": "",
                     "abo_version_maps": [
                         {
                             "maps_id": "5769",
@@ -416,6 +447,7 @@
                             "element_image_url": null,
                             "element_path_rid": "//a[contains(text(),'Deal of the Day')]",
                             "autoheal_elements": "[{\"locators\":\"Xpath\",\"locators_val\":\"//a[contains(text(),'Deal of the Day')]\",\"locator_id\":\"3\",\"d_h\":16,\"d_w\":91,\"d_x\":403.40625,\"d_y\":286.59375,\"suggest_name\":\"dealofthed962\"},{\"locators\":\"CSS selector\",\"locators_val\":\"li:nth-of-type(5) > a.bottom-left-links\",\"locator_id\":\"9\",\"d_h\":16,\"d_w\":91,\"d_x\":403.40625,\"d_y\":286.59375,\"suggest_name\":\"dealofthed962\"},{\"locators\":\"CSS selector\",\"locators_val\":\"html > body > div:nth-of-type(5) > div > div > header > div:nth-of-type(4) > nav > div > ul > li:nth-of-type(5) > aTGWEBCOMMA0\",\"locator_id\":\"9\",\"d_h\":16,\"d_w\":91,\"d_x\":403.40625,\"d_y\":286.59375,\"suggest_name\":\"dealofthed962\"},{\"locators\":\"PartialLinkText\",\"locators_val\":\"Deal of the DTGWEBCOMMA0\",\"locator_id\":\"5\",\"d_h\":16,\"d_w\":91,\"d_x\":403.40625,\"d_y\":286.59375,\"suggest_name\":\"dealofthed962\"},{\"locators\":\"LinkText\",\"locators_val\":\"Deal of the DayTGWEBCOMMA0\",\"locator_id\":\"4\",\"d_h\":16,\"d_w\":91,\"d_x\":403.40625,\"d_y\":286.59375,\"suggest_name\":\"dealofthed962\"},{\"locators\":\"Xpath\",\"locators_val\":\"//li[5]/a\",\"locator_id\":\"3\",\"d_h\":16,\"d_w\":91,\"d_x\":403.40625,\"d_y\":286.59375,\"suggest_name\":\"dealofthed962\"},{\"locators\":\"Tag\",\"locators_val\":\"aTGWEBCOMMA0\",\"locator_id\":\"8\",\"d_h\":16,\"d_w\":91,\"d_x\":403.40625,\"d_y\":286.59375,\"suggest_name\":\"dealofthed962\"},{\"locators\":\"class\",\"locators_val\":\"bottom-left-links TGWEBCOMMA5\",\"locator_id\":\"6\",\"d_h\":16,\"d_w\":91,\"d_x\":403.40625,\"d_y\":286.59375,\"suggest_name\":\"dealofthed962\"}]",
+                            "correct_autoheal_data": null,
                             "shadow_data": "",
                             "sibling_selector": "{\"parent\":{\"tag\":\"li\",\"tg_attributes\":{\"aria-hidden\":\"false\"}},\"current_element_attrs\":{\"tag\":\"a\",\"tg_attributes\":{\"aria-hidden\":\"false\",\"class\":\"bottom-left-links \",\"href\":\"\\/site\\/misc\\/deal-of-the-day\\/pcmcat248000050016.c?id=pcmcat248000050016\",\"tabindex\":\"0\"}}}",
                             "tg_text": "Deal of the Day",
@@ -450,6 +482,7 @@
                             "element_image_url": null,
                             "element_path_rid": "//div[@id='fulfillment-add-to-cart-959ea4be-1675-4082-99a9-c8e91118857e-6643886']//div//div//div//button[@type='button'][contains(text(),'Add to cart')]",
                             "autoheal_elements": "[{\"locators\":\"Xpath\",\"locators_val\":\"//div[@id='fulfillment-add-to-cart-959ea4be-1675-4082-99a9-c8e91118857e-6643886']//div//div//div//button[@type='button'][contains(text(),'Add to cart')]\",\"locator_id\":\"3\",\"d_h\":30,\"d_w\":125,\"d_x\":580.328125,\"d_y\":792.4375,\"suggest_name\":\"addtocart225\"},{\"locators\":\"Xpath\",\"locators_val\":\"//div[@id='fulfillment-add-to-cart-959ea4be-1675-4082-99a9-c8e91118857e-6643886']/div/div/div/button\",\"locator_id\":\"3\",\"d_h\":30,\"d_w\":125,\"d_x\":580.328125,\"d_y\":792.4375,\"suggest_name\":\"addtocart225\"},{\"locators\":\"CSS selector\",\"locators_val\":\"button.c-button.c-button-primary.c-button-sm.c-button-block.c-button-icon.c-button-icon-leading.add-to-cart-button\",\"locator_id\":\"9\",\"d_h\":30,\"d_w\":125,\"d_x\":580.328125,\"d_y\":792.4375,\"suggest_name\":\"addtocart225\"},{\"locators\":\"CSS selector\",\"locators_val\":\"div#fulfillment-add-to-cart-959ea4be-1675-4082-99a9-c8e91118857e-6643886 > div > div > div > buttonTGWEBCOMMA0\",\"locator_id\":\"9\",\"d_h\":30,\"d_w\":125,\"d_x\":580.328125,\"d_y\":792.4375,\"suggest_name\":\"addtocart225\"},{\"locators\":\"Xpath\",\"locators_val\":\"//div[2]/div/div/div/div/div/div/button\",\"locator_id\":\"3\",\"d_h\":30,\"d_w\":125,\"d_x\":580.328125,\"d_y\":792.4375,\"suggest_name\":\"addtocart225\"},{\"locators\":\"Tag\",\"locators_val\":\"buttonTGWEBCOMMA0\",\"locator_id\":\"8\",\"d_h\":30,\"d_w\":125,\"d_x\":580.328125,\"d_y\":792.4375,\"suggest_name\":\"addtocart225\"},{\"locators\":\"class\",\"locators_val\":\"c-button c-button-primary c-button-sm c-button-block c-button-icon c-button-icon-leading add-to-cart-button TGWEBCOMMA3\",\"locator_id\":\"6\",\"d_h\":30,\"d_w\":125,\"d_x\":580.328125,\"d_y\":792.4375,\"suggest_name\":\"addtocart225\"}]",
+                            "correct_autoheal_data": null,
                             "shadow_data": "",
                             "sibling_selector": "{\"parent\":{\"tag\":\"div\",\"tg_attributes\":{\"style\":\"position:relative;display:block\"}},\"previous_sibling\":{\"tag\":\"div\",\"tg_attributes\":{\"data-optimizely-experiment-key\":\"ABT_STICKY_ATC\"}},\"current_element_attrs\":{\"tag\":\"button\",\"tg_attributes\":{\"class\":\"c-button c-button-primary c-button-sm c-button-block c-button-icon c-button-icon-leading add-to-cart-button \",\"type\":\"button\",\"data-sku-id\":\"6643886\",\"data-button-state\":\"ADD_TO_CART\",\"style\":\"padding:0 8px;width:100%\"}}}",
                             "tg_text": "Add to cart",

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locators>
+  <locator name="ele_DealoftheDaylink27102831994258">
+    <element type="xpath">//a[contains(text(),'Top Deals')]</element>
+    <element type="css">li:nth-of-type(4) &gt; a.bottom-left-links</element>
+    <element type="css">html &gt; body &gt; div:nth-of-type(5) &gt; div &gt; div &gt; header &gt; div:nth-of-type(4) &gt; nav &gt; div &gt; ul &gt; li:nth-of-type(4) &gt; aTGWEBCOMMA0</element>
+    <element type="partiallinktext">Top DeaTGWEBCOMMA0</element>
+    <element type="linktext">Top DealsTGWEBCOMMA0</element>
+    <element type="tag">aTGWEBCOMMA0</element>
+    <element type="class">bottom-left-links TGWEBCOMMA4</element>
+    <element type="image">http://192.168.4.15/s/ele-imgs/175/5817.png</element>
+  </locator>
+  <locator name="ele_Addtocart120102953278507">
+    <element type="xpath">//div[@id='fulfillment-add-to-cart-button-83662767']//div//div//div//button[@type='button'][contains(text(),'Add to cart')]</element>
+    <element type="css">button.c-button.c-button-primary.c-button-sm.c-button-block.c-button-icon.c-button-icon-leading.add-to-cart-button</element>
+    <element type="css">div#fulfillment-add-to-cart-button-83662767 &gt; div &gt; div &gt; div &gt; buttonTGWEBCOMMA0</element>
+    <element type="tag">buttonTGWEBCOMMA0</element>
+    <element type="class">c-button c-button-primary c-button-sm c-button-block c-button-icon c-button-icon-leading add-to-cart-button TGWEBCOMMA5</element>
+  </locator>
+  <locator name="ele_Addtocart1201029532785071765881007">
+    <element type="xpath">//div[@id='fulfillment-add-to-cart-button-83662767']//div//div//div//button[@type='button'][contains(text(),'Add to cart')]</element>
+    <element type="css">button.c-button.c-button-primary.c-button-sm.c-button-block.c-button-icon.c-button-icon-leading.add-to-cart-button</element>
+    <element type="css">div#fulfillment-add-to-cart-button-83662767 &gt; div &gt; div &gt; div &gt; buttonTGWEBCOMMA0</element>
+    <element type="tag">buttonTGWEBCOMMA0</element>
+    <element type="class">c-button c-button-primary c-button-sm c-button-block c-button-icon c-button-icon-leading add-to-cart-button TGWEBCOMMA5</element>
+  </locator>
+  <locator name="ele_Cart31103439573326">
+    <element type="xpath">//div[@id='order-status-flyout-button']//a[@role='button']</element>
+    <element type="css">a.c-button-unstyled.plButton.orderStatus-button.d-flex.justify-content-center.align-items-center</element>
+    <element type="css">div#order-status-flyout-button &gt; aTGWEBCOMMA0</element>
+    <element type="tag">aTGWEBCOMMA0</element>
+    <element type="class">c-button-unstyled plButton orderStatus-button d-flex justify-content-center align-items-centerTGWEBCOMMA6</element>
+  </locator>
+</locators>
